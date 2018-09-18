@@ -31,3 +31,8 @@ production:
   dapter: postgresql
   encoding: unicode
   pool: 5
+  username: rsczouabtwzbck
+  password: bc2ad2e1f38bd2dd50e4f596d78daf49c87dc3b7ea9d70d348ea9007283dc5eb
+  hostname: ec2-54-83-27-165.compute-1.amazonaws.com
+  post: 5432
+  database: d9jslh915uqrki
